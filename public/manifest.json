@@ -1,12 +1,12 @@
 {
   "name": "Heroku Hosted Power-Up",
-  "details":"",
+  "details":"A simple Power-Up on Heroku",
   "icon": {
-    "url": ""
+    "url": "https://github.com/trello/power-up-on-heroku/blob/master/public/trello.png?raw=true"
   },
   "author": "Trello Inc",
   "capabilities": [
-    "board-buttons",
+    "board-buttons"
   ],
   "connectors": {
     "iframe": {
