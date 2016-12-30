@@ -19,7 +19,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Deploying via Heroku CLI
 
-Ensure that you have (Heroku CLI)[https://devcenter.heroku.com/articles/heroku-cli] installed. 
+Ensure that you have [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) installed. 
 
 ```
 $ heroku create
