@@ -1,0 +1,7 @@
+{
+  "name": "Trello Power-Up Hosted On Heroku",
+  "description": "A simple Trello Power-Up hosted on Heroku",
+  "repository": "https://github.com/trello/power-up-on-heroku",
+  "logo": "https://github/com/trello/power-up-on-heroku/public/trello.png",
+  "keywords": ["trello", "power-ups", "node", "express", "static"]
+}

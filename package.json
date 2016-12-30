@@ -1,0 +1,11 @@
+{
+  "name": "power-up-on-heroku",
+  "version": "1.0.0",
+  "description": "A simple Trello Power-Up hosted on Heroku",
+  "main": "server.js",
+  "author": "Trello Inc.",
+  "license": "ASL",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

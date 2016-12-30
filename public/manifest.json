@@ -1,0 +1,16 @@
+{
+  "name": "Heroku Hosted Power-Up",
+  "details":"",
+  "icon": {
+    "url": ""
+  },
+  "author": "Trello Inc",
+  "capabilities": [
+    "board-buttons",
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
